@@ -135,7 +135,7 @@ function isFunctionMember(propertyKey: string, target: any): boolean {
 
 function isForbiddenMember(propertyKey: string): boolean {
   const FORBIDDEN_KEYS = ['name', 'constructor', 'length', 'prototype', 'caller', 'arguments', 'apply',
-    'queryInterface', 'queryGenerator', 'init', 'replaceHookAliases', 'refreshAttributes', 'inspect'];
+    'queryInterface', 'queryGenerator', 'init', 'replaceHookAliases', 'refreshAttributes', 'inspect', 'queryGenerator', 'queryInterface'];
   return FORBIDDEN_KEYS.indexOf(propertyKey) !== -1;
 }
 
