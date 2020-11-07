@@ -1,3 +1,8 @@
+
+
+**Help wanted:** *Please try out `sequelize-typescript@1.1.0` and give a 👍/👎 [here](https://github.com/RobinBuschmann/sequelize-typescript) *
+
+
 [![Build Status](https://travis-ci.org/RobinBuschmann/sequelize-typescript.svg?branch=master)](https://travis-ci.org/RobinBuschmann/sequelize-typescript)
 [![codecov](https://codecov.io/gh/RobinBuschmann/sequelize-typescript/branch/master/graph/badge.svg)](https://codecov.io/gh/RobinBuschmann/sequelize-typescript)
 [![NPM](https://img.shields.io/npm/v/sequelize-typescript.svg)](https://www.npmjs.com/package/sequelize-typescript)
